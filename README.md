@@ -13,10 +13,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0460-lfu-cache](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0460-lfu-cache](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +41,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
