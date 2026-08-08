@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0509-fibonacci-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +76,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
