@@ -122,4 +122,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
