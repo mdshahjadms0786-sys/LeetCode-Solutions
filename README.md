@@ -123,4 +123,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
