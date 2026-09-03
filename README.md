@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0027-remove-element](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -110,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
