@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0038-count-and-say](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0067-add-binary](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
