@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0062-unique-paths](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0091-decode-ways](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0509-fibonacci-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Design
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0509-fibonacci-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -165,4 +167,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
