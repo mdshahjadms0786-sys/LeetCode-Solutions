@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0038-count-and-say](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0038-count-and-say/) | Medium |
+| [0058-length-of-last-word](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
