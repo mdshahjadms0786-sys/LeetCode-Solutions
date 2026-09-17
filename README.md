@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0041-first-missing-positive](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0041-first-missing-positive](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0460-lfu-cache](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
