@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -188,4 +190,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
