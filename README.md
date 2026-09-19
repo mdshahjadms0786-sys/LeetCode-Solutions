@@ -95,12 +95,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0127-word-ladder](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -194,8 +196,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
