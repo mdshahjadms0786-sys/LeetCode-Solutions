@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
