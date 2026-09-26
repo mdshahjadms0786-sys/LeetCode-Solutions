@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0509-fibonacci-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0224-basic-calculator](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0127-word-ladder](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0179-largest-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
+| [0224-basic-calculator](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0224-basic-calculator](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0371-sum-of-two-integers](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
