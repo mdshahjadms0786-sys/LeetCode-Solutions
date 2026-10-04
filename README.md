@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
