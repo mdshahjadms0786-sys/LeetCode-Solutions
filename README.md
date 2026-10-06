@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
