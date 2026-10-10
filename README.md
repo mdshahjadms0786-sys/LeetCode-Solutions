@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Hash Table
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0217-contains-duplicate](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0460-lfu-cache](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Linked List
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0219-contains-duplicate-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
