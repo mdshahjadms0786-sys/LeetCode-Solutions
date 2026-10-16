@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
