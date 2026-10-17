@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0336-palindrome-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0336-palindrome-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0460-lfu-cache](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Linked List
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0179-largest-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0224-basic-calculator](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0336-palindrome-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0336-palindrome-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,4 +298,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0336-palindrome-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 <!---LeetCode Topics End-->
