@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Design
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -306,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Dancing Links
 | Problem Name | Difficulty |
