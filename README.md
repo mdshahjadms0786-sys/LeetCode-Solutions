@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0336-palindrome-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
+| [0867-transpose-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0867-transpose-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0867-transpose-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
