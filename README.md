@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0224-basic-calculator](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
