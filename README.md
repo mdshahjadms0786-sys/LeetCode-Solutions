@@ -332,4 +332,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0336-palindrome-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
