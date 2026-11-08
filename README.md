@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0118-pascals-triangle](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0338-counting-bits](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
