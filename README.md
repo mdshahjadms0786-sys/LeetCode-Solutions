@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0336-palindrome-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0867-transpose-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0338-counting-bits](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Math
@@ -338,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0179-largest-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,4 +393,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
