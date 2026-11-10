@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0118-pascals-triangle](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
@@ -357,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Dancing Links
