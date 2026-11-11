@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0179-largest-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0127-word-ladder](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
+| [0200-number-of-islands](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -178,11 +180,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -283,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0200-number-of-islands](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0867-transpose-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
