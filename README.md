@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0336-palindrome-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0118-pascals-triangle](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,5 +409,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
