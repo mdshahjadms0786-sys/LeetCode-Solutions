@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0867-transpose-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0867-transpose-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
