@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
