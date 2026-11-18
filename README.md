@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0336-palindrome-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0867-transpose-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
