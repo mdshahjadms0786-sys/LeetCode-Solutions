@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -428,4 +429,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
