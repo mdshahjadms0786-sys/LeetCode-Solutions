@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0336-palindrome-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Backtracking
@@ -345,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
