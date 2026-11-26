@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
