@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0336-palindrome-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0460-lfu-cache](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Linked List
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0224-basic-calculator](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0336-palindrome-pairs](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0721-accounts-merge](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Breadth-First Search
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mdshahjadms0786-sys/LeetCode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
